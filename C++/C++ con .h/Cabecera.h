@@ -1,12 +1,11 @@
 #ifndef CABECERA_H
 #define CABECERA_H
 
-template <class T>
 struct Clase {
-  
-  T mensaje;
-  void Clase();
 
+  std::string mensaje;
+
+  Clase();
 };
 
 #include "Cabecera.hxx"

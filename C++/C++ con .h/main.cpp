@@ -4,9 +4,9 @@
 #include "Cabecera.h"
 
 int main() {
-    
-    Clase<string> clase;
-    clase.Clase();
+
+    Clase clase;
+    std::cout<<clase.mensaje;
 
     return 0;
 }
