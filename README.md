@@ -5,3 +5,5 @@ This repository contains predesigned templates to copy and start programming. He
 ### JS
 ### SQL
 ### HTML
+### dart
+### flutter
